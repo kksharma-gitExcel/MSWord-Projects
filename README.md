@@ -16,7 +16,7 @@ This folder contains various Microsoft Word documents and templates that serve d
   1. Image(s) used in creating below files.
   2. Document file.
   3. PDF files which is created out of Document file.<br>
-___
+***
 1. Customer Database Report: A report example for customer data.
 2. Daily Report Sheet: A report for creating daily activity.
 3. Event schedule Sheet: A report for managing event timelines.
