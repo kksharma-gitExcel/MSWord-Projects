@@ -17,16 +17,16 @@ This folder contains various Microsoft Word documents and templates that serve d
   2. Document file.
   3. PDF files which is created out of Document file.<br>
 ***
-1. Customer Database Report: A report example for customer data.
-2. Daily Report Sheet: A report for creating daily activity.
-3. Event schedule Sheet: A report for managing event timelines.
-4. Inventory Tracking sheet: A document for monitoring inventory levels.
-5. Invoice template: A reusable template for creating invoices.
-6. Medical Prescription sheet: A standardized form for prescription.
-7. Order confirmation Format: A template for confirming customer orders.
-8. Product Price List: A document listing product prices.
-9. Sales comparasion Report: A report template for comparing sales data.
-10. Weekly timesheet log: A template for logging weekly work hours.
+1. **Customer Database Report**: A report example for customer data.
+2. **Daily Report Sheet**: A report for creating daily activity.
+3. **Event schedule Sheet**: A report for managing event timelines.
+4. **Inventory Tracking sheet**: A document for monitoring inventory levels.
+5. **Invoice template**: A reusable template for creating invoices.
+6. **Medical Prescription sheet**: A standardized form for prescription.
+7. **Order confirmation Format**: A template for confirming customer orders.
+8. **Product Price List**: A document listing product prices.
+9. **Sales comparasion Report**: A report template for comparing sales data.
+10. **Weekly timesheet log**: A template for logging weekly work hours.
 
 ---
 
